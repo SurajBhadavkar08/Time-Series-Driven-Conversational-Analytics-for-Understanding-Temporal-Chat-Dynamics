@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node / Frontend build files
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# WhatsApp Chat Export Files (Sensitive data - DO NOT upload to GitHub!)
+*.txt
+backend/*.txt
+
+# Large Document PDFs
+*.pdf
+
+# Editor & System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
